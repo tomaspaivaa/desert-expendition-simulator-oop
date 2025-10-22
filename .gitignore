@@ -1,0 +1,53 @@
+# --- CMake / build ---
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+build/
+bin/
+dist/
+
+# --- Compiled objects & libraries ---
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.lib
+
+# --- Executáveis gerados ---
+# nomes comuns do teu projecto / executáveis sem extensão (Unix)
+Desert
+desert
+# permitir comodidade: ignorar quaisquer binários
+*.out
+*.exe
+
+# --- Coverage / profiling / dependencies ---
+*.gcno
+*.gcda
+coverage/
+
+# --- Editor / IDE ---
+.idea/
+.vscode/
+*.code-workspace
+
+# --- OS / temp / editors ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+*.tmp
+*.log
+
+# --- Archive / packages ---
+*.zip
+*.tar.gz
+*.rar
+*.7z

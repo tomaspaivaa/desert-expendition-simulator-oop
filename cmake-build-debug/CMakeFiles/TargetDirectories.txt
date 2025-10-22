@@ -1,3 +1,0 @@
-C:/VersoestrabalhoPOO/TrabalhoPratico_POO_123/cmake-build-debug/CMakeFiles/TrabalhoPratico_POO.dir
-C:/VersoestrabalhoPOO/TrabalhoPratico_POO_123/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/VersoestrabalhoPOO/TrabalhoPratico_POO_123/cmake-build-debug/CMakeFiles/rebuild_cache.dir
