@@ -81,5 +81,5 @@ To run it, simply **open or import the project folder** in CLion, the IDE will a
 
 
 ---
-*This work was completed as part of the “Object-Oriented Programming" course during the 2024/2025 academic year.*
+*This work was completed as part of the “Object-Oriented Programming" course during the 2024/2025 academic year in a group of 2 members. (Grade: 9.5 out of 10)*
 
